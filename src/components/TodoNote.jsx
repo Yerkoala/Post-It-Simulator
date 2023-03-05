@@ -5,7 +5,6 @@ import { TodoPost } from "./TodoPost";
 const KEY = 'todolist-todos';
 
 export function TodoNote() {
-
    //LÓGICA
    //todos: nombre de  la constante a usar
    //setTodos: nombre del metodo que usará la constante
